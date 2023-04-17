@@ -19,7 +19,7 @@
 <li>Classe de configuration</li>
 <img src="captures/sc1.png" height="" width="300">
 
-<img src="captures/sc2.png" height="" width="200">
+<img src="captures/sc2.png" height="" width="400">
 <li> Security Controller</li>
 <img src="captures/sc3.png" height="300" width="300">
 <li>La page web</li>
