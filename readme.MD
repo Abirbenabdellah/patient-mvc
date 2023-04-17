@@ -21,7 +21,7 @@
 
 <img src="captures/sc2.png" height="" width="">
 <li> Security Controller</li>
-<img src="captures/sc3.png" height="200" width="200">
+<img src="captures/sc3.png" height="300" width="300">
 <li>La page web</li>
 <img src="captures/r1.png" height="200" width="250">
 
