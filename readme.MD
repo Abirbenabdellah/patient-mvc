@@ -17,9 +17,9 @@
 <h5>La partie sécurité</h5>
 <h6>L'ajout d'un système d'authentification basé sur Spring security </h6>
 <li>Classe de configuration</li>
-<img src="captures/sc1.png" height="" width="180">
+<img src="captures/sc1.png" height="" width="300">
 
-<img src="captures/sc2.png" height="" width="">
+<img src="captures/sc2.png" height="" width="200">
 <li> Security Controller</li>
 <img src="captures/sc3.png" height="300" width="300">
 <li>La page web</li>
